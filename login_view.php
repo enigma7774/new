@@ -38,6 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</head>
 <div class = "all">
   <center>
+    
     <h1 class="display-1">Форма авторизации</h1>
   <form class="form-inline" method="post" action="/Codeigniter/">
     <div class="form-group">
